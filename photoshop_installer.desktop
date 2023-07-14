@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-Desktop-File-Install-Version=0.11
+Name=Photoshop Installer
+Comment=Photoshop Installer
+Comment[es]=Instalador de Photoshop
+Name[es]=Instalador de Photoshop
+Exec=xterm -e "cd /tmp/ && wget https://github.com/LinSoftWin/Illustrator-CC-2021-Linux/releases/download/1.0.0/install-illustrator-2021.sh && chmod +x install-illustrator-2021.sh && sh install-illustrator-2021.sh"
+Icon=preferences-desktop-theme
+Terminal=false
+Type=Application
+Categories=Settings;DesktopSettings;Qt;
+Keywords=settings;desktop;qt;qtsettings;qt5;
